@@ -145,6 +145,10 @@
     display: flex;
   }
 
+.setas img {
+  width: 15%;
+}
+
   .voltar {
     display: flex;
     align-items: center;
